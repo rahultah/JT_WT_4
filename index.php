@@ -63,7 +63,7 @@
 
         </div>
         <ul id="itemList">
-        <div class="card col-sm-1 col-lg-3"><img id = "dishimg" class="card-img-top" src=""><div id="877" class="card-body"><h5 id = "dishname"></h5><p class="card-text" id = "dishdes"><p id = "sprice"></p></p><p id = "smallprice"></p><p id="lprice"></p><p id = "largeprice"></p></div></div>
+        <div class="card"><img id = "dishimg" class="card-img-top" src=""><div id="877" class="card-body"><h5 id = "dishname"></h5><p class="card-text" id = "dishdes"><p id = "sprice"></p></p><p id = "smallprice"></p><p id="lprice"></p><p id = "largeprice"></p></div></div>
             
         </ul>
         
