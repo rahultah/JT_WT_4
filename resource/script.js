@@ -1,4 +1,4 @@
-let base_url = "http://localhost/main/order.php";
+let base_url = "https://wtassignment4.herokuapp.com/order.php";
 
     function get_order() {
     var text_id = $("#text").val();
